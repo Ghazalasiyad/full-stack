@@ -1,0 +1,62 @@
+.progress{
+    width: 45%;
+    height: 8px;
+    margin-top: 3%;
+    margin-left: 3%;
+    
+  }
+  h6{
+    margin-left: 3%;
+  }
+  h3{
+    padding-top: 5%;
+    padding-left: 3%;
+  }
+  p{
+    padding-left: 3%;
+  }
+  img{
+    height: 450px;
+    width: 450px;
+    margin-left: 55%;
+    margin-top: -32%;
+  }
+
+  .main{
+  
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 20%;
+    border: 2px solid white;
+    border-radius:50% ;
+    align-items: center;
+    background-color: black;
+    }
+ .roll{
+     width: 150px;
+     height: 10px;
+     margin-left:22%;
+     margin-top: -1%;
+     background-color: white;
+    
+     border-radius: 30% 50% 30% 50%;
+     transition: all 3s ease-in-out ;
+ }
+ .roll:hover{
+     
+     transform: rotate(1080deg);
+ }
+
+ .bar1{
+    
+     margin-top: 49%;
+     margin-left: -4%;
+    
+ }.bar2{
+    
+    
+     margin-left: -2%;
+    
+ }

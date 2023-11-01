@@ -1,0 +1,30 @@
+.title{
+    color:white;
+    text-align: center;
+    background-color: black;
+}
+
+.bulb-container {
+    display: flex;
+  
+    align-items: center;
+    height: 100vh;
+}
+
+.bulb {
+    width: 100px;
+    height: 150px;
+}
+
+.bulb-image {
+    width: 100%;
+    height: 100%;
+}
+.img{
+    height: 300px;
+    width: 300px;
+}
+
+
+
+

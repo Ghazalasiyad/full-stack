@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.post{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://khaadi.com/media/wysiwyg/khaadi/01-01-landingpage/Country_Landing-0602-1920x1080.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+position: relative;
+
+
+}
+.logo img{
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 26%;
+    left: 74%;
+    
+}
+select{
+    position: absolute;
+    left: 68%;
+    top: 53%;
+    height: 7.5vh;
+    width: 25%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.btn a{
+   position: absolute;
+   top: 65%;
+   left: 73%;
+   text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 15px 85px;
+    border-radius: 8px;
+    border: none;
+}
+.btn a:hover{
+    background-color: white;
+    color: black;
+}
+nav{
+height: 8vh;
+width: 100%;
+background-color: lightgrey;
+position: relative;
+}
+.bar{
+    position: absolute;
+    left: 23%;
+}
+.bar a{
+   
+    color: black;
+}
+.naav{
+   
+  
+    position: relative;
+}
+.loggo img{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    left: 3%;
+    top: -90%;
+}
+.loggo a{
+    text-decoration: none;
+    color: black;
+    padding-left: 3%;
+  
+   
+   
+}
+.wint{
+   
+    margin-left: 25%;
+    margin-top: 3%;
+ 
+}
+.container{
+
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 1%;
+ 
+ 
+   
+}
+.box img{
+   width: 300px;
+    
+    
+}
+.containerr{
+    display: flex;
+    padding-top: 1%;
+   
+    justify-content: space-evenly;
+}
+.boxs img{
+    width: 300px;
+     
+     
+ }
+

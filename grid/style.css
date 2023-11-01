@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.element1 { grid-area: header; }
+.element2 { grid-area: menu; }
+.element3 { grid-area: main; }
+.element4 { grid-area: right; }
+.element5 { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+  gap: 10px;
+  background-color: red;
+  padding: 10px;
+  height: 70vh;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 3%;
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+  border: 2px solid lightblue;
+}
+

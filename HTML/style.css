@@ -1,0 +1,296 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.nav{
+    width:100px;
+    background-color: red;
+}
+.main{
+    background-image: url(https://images.ctfassets.net/hrltx12pl8hq/3Z1N8LpxtXNQhBD5EnIg8X/975e2497dc598bb64fde390592ae1133/spring-images-min.jpg
+    );
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.maain{
+    height: 135vh;
+   
+    background-color: blue;
+    border: 10px solid grey;
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+    
+}
+.padd
+{
+height: 110vh;
+border: 10px solid grey;
+background-color: white;
+margin-top: 9%;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+
+.box{
+    height: 45vh;
+    border-bottom: 3px solid grey;
+}
+.box1{
+    height: 6vh;
+    width: 30%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+    margin-top: 5%;
+    margin-left: 3%;
+    border-radius: 15px;
+}
+.box2{
+    height: 6vh;
+    width: 30%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+    margin-top: -4%;
+    margin-left: 60%;
+    border-radius: 15px;
+}
+.box3{
+    height: 6vh;
+    width: 20%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+    margin-top: 2%;
+    margin-left: 36%;
+    border-radius: 15px;
+}
+.box4{
+    height: 6vh;
+    width: 45%;
+    background-color: red;
+    border: 2px solid lightgreen;
+    margin-top: 6%;
+   margin-left: 30%;
+    border-radius: 15px;
+}
+.asset{
+    background-color: lightblue;
+    height: 56vh;
+    display: flex;
+   
+}
+.box5{
+    height: 40vh;
+    width: 35%;
+    background-color: white;
+    margin: auto;
+    padding-bottom: -5%;
+   
+    
+}
+.box6{
+    height: 50vh;
+    width: 35%;
+    background-color: white;
+   margin: auto;
+}
+.card1{
+    height: 4vh;
+    width: 33%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+    margin-top: 3%;
+    margin-left: 3%;
+    border-radius: 10px;
+}
+.card2{
+    height: 4vh;
+    width: 33%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+    margin-top: -7%;
+    margin-left: 60%;
+    border-radius: 10px;
+}
+
+.card3{
+    height: 4vh;
+    width: 43%;
+    background-color: blue;
+    border: 2px solid lightgreen;
+    margin-top: 40%;
+    margin-left: 22%;
+    border-radius: 10px;
+}
+.card4{
+    height: 4vh;
+    width: 28%;
+    background-color: blue;
+    border: 2px solid lightgreen;
+margin-top: 4%;
+margin-left: 2%;
+    border-radius: 10px;
+}
+.card5{
+    height: 4vh;
+    width: 28%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+margin-top: -7%;
+margin-left: 62%;
+    border-radius: 10px;
+}
+.card6{
+    height: 4vh;
+    width: 28%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+margin-top: 20%;
+margin-left: 2%;
+    border-radius: 10px;
+}
+.card7{
+    height: 4vh;
+    width: 28%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+margin-top: -8%;
+margin-left: 60%;
+    border-radius: 10px;
+}
+.card8{
+    height: 4vh;
+    width: 28%;
+    background-color:blue;
+    border: 2px solid lightgreen;
+margin-top: 25%;
+margin-left: 2%;
+    border-radius: 10px;
+}
+.card9{
+    height: 4vh;
+    width: 28%;
+    background-color: grey;
+    border: 2px solid lightgreen;
+margin-top: -8%;
+margin-left: 60%;
+    border-radius: 10px;
+}
+.image{
+    display: flex;
+    
+}
+.img1{
+    padding-left: 8%;
+    filter: blur(1px);
+    
+    
+}
+
+.img2{
+    padding-left: 8%;
+    filter: brightness(5px);
+}
+.img3{
+    padding-left: 8%;
+    filter: contrast(15px);
+}
+.images{
+    display: flex;
+    
+}
+.img4{
+    padding-left: 8%;
+    padding-top: 3%;
+    filter: grayscale(3px);
+}
+.img5{
+    padding-left: 8%;
+    padding-top: 3%;
+    filter: opacity(0.5);
+}
+.img6{
+    padding-left: 8%;
+    padding-top: 3%;
+    filter: blur(2px);
+    
+}
+
+.imagess{
+    display: flex;
+    
+}
+.img7{
+    padding-left: 8%;
+    padding-top: 3%;
+    filter: contrast(3px);
+}
+.img8{
+    padding-left: 8%;
+    padding-top: 3%;
+    filter: grayscale(1px);
+}
+.img9{
+    padding-left: 8%;
+    padding-top: 3%;
+    filter: brightness(1px);
+}
+.boxes{
+    height: 85vh;
+    width: 100%;
+    background-color: black;
+   margin-top: 5%;
+   position: relative;
+    
+}
+.boxx{
+    height:100px;
+    width:100px;
+}
+.boxx1{
+    background-color: red;
+    position: absolute;
+    left: 0;
+}
+.boxx2{
+    background-color: gray;
+    position: absolute;
+    left: 1250px;
+}
+.boxx3{
+    background-color:yellow;
+    position: absolute;
+    left: 600px;
+}
+.boxx4{
+    background-color: blueviolet;
+    position: absolute;
+    left: 600px;
+    top: 250px;
+}
+.boxx5{
+    background-color:orange;
+    position: absolute;
+    left: 600px;
+    top: 450px;
+}
+.boxx6{
+    background-color: green;
+    position: absolute;
+    left: 0;
+    top: 450px;
+}
+.boxx7{
+    background-color: aqua;
+
+    position: absolute;
+    left: 1250px;
+    top: 450px;
+}
+
+
+

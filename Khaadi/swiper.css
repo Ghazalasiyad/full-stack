@@ -1,0 +1,80 @@
+.swiper {
+    width: 100%;
+    height: 60%;
+  }
+
+  .swiper
+  .slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+  }
+  
+  .imag img:hover{
+   background-image: url(https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw8919acf4/images/hi-res/ak231001_teal_5.jpg?sw=800&sh=1200);
+  }
+  
+  .image{
+    
+    background-image: url(https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Library-Sites-KhaadiSharedLibrary/default/dw544f69f7/images/NewFabrics-HomepageCategory.jpg);
+  width: 50%;
+  height: 80vh;
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+}
+.fabrics{
+    display: flex;
+    margin-top: 1%;
+}
+.clip-image{
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    position: absolute;
+    right:0;
+    top:100px;
+}
+/*.slide1{
+    background-image: url(https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw91630135/images/hi-res/ak231001_red_2.jpg?sw=400&sh=600);
+height: 100%;
+width: 100%;
+background-size: cover;
+
+
+}
+.slide2{
+    background-image: url(https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw21c74499/images/hi-res/alk231012_purple_2.jpg?sw=400&sh=600);
+height: 100%;
+width: 100%;
+background-size: cover;
+
+
+}
+.slide3{
+    background-image: url(https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw443d38c3/images/hi-res/ak231001_teal_2.jpg?sw=400&sh=600);
+height: 100%;
+width: 100%;
+background-size: cover;
+
+
+}
+.slide4{
+    background-image: url(https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw1c4179f9/images/hi-res/ak231002_beige_2.jpg?sw=400&sh=600);
+height: 100%;
+width: 100%;
+background-size: cover;
+
+
+}*/
